@@ -16,6 +16,6 @@
 
 
 <h3 id='howToRun'>How to run?</h3>
-```bash 
+```bash
 mvn spring-boot:run
 ```
